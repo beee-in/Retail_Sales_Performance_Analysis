@@ -1,10 +1,5 @@
 # Retail Sales Performance Analysis
 
-> **Portfolio staging copy — not yet a finished independent project.**
->
-> Reference repository: https://github.com/saloniprasad017/Retail_Sales_Data_Analytics
-> The original source is credited here. Obtain permission and review the source
-> repository's license before republishing or adapting its code.
 
 ## Project objective
 Analyze retail order data to understand sales trends, product/category performance,
